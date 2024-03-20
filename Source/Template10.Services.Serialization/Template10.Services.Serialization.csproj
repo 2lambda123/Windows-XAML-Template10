@@ -23,7 +23,7 @@
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <FileVersion>1.0.4.0</FileVersion>
-    
+
   </PropertyGroup>
 
   <ItemGroup>

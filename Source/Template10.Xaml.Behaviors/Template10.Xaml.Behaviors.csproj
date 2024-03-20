@@ -2,7 +2,7 @@
 <Project Sdk="MSBuild.Sdk.Extras">
 
   <PropertyGroup>
-    
+
     <Title>Template10 Xaml Behaviors</Title>
     <PackageId>Template10.Xaml.Behaviors</PackageId>
     <AssemblyName>Template10.Xaml.Behaviors</AssemblyName>

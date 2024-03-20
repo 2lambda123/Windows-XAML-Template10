@@ -22,7 +22,7 @@
     <Authors>Jerry Nixon, Daren May</Authors>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    
+
   </PropertyGroup>
 
   <ItemGroup>
@@ -37,7 +37,7 @@
     <PackageReference Include="Microsoft.UI.Xaml" Version="2.2.190917002" />
     <PackageReference Include="Template10" Version="2.0.1" />
   </ItemGroup>
-  
+
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
     <Version>2.0.$([System.DateTime]::UtcNow.ToString(yyMMdd))</Version>
   </PropertyGroup>

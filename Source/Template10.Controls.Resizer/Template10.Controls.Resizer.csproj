@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="MSBuild.Sdk.Extras/2.0.54">
-  
+
   <PropertyGroup>
 
     <Title>Template10 Controls Resizer</Title>
@@ -44,5 +44,5 @@
   <Target Name="CopyPackage" AfterTargets="Pack">
     <Copy SourceFiles="$(OutputPath)$(PackageId).$(PackageVersion).nupkg" DestinationFolder="c:\nuget" />
   </Target>
-  
+
 </Project>

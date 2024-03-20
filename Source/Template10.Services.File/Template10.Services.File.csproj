@@ -22,7 +22,7 @@
     <Authors>Jerry Nixon, Daren May</Authors>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    
+
   </PropertyGroup>
 
   <ItemGroup>
